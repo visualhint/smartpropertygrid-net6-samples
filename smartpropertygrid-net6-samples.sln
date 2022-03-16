@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32104.313
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyGridShowRoom", "PropertyGridShowRoom\PropertyGridShowRoom.csproj", "{AE09BF80-C42F-493C-8490-922AD5AC43DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStart", "QuickStart\QuickStart.csproj", "{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE09BF80-C42F-493C-8490-922AD5AC43DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE09BF80-C42F-493C-8490-922AD5AC43DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE09BF80-C42F-493C-8490-922AD5AC43DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE09BF80-C42F-493C-8490-922AD5AC43DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89667E79-C936-46ED-A8BA-E390FAB163F1}
+	EndGlobalSection
+EndGlobal
