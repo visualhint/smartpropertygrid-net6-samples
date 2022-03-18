@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="VisualHint.SmartPropertyGrid-net6" Version="4.0.0-rc.2" />
+    <PackageReference Include="VisualHint.SmartPropertyGrid-net6.Trial" Version="4.0.0-rc.3" />
   </ItemGroup>
 
   <ItemGroup>

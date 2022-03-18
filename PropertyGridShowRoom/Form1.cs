@@ -6,8 +6,8 @@ namespace PropertyGridShowRoom
     {
         public Form1()
         {
-            // Don't forget to add your spg.vhlicense file as an embedded resource if you have purchased the product
-            VisualHint.SmartPropertyGrid.PropertyGrid.LocateLicenseInThisAssembly();
+            // TODO: when not using the trial, uncomment the following line and don't forget to add your spg.vhlicense file as an embedded resource if you have purchased the product
+            // VisualHint.SmartPropertyGrid.PropertyGrid.LocateLicenseInThisAssembly();
 
             InitializeComponent();
         }
