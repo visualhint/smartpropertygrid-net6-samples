@@ -4,6 +4,8 @@ This repository contains 2 sample apps that allow you to play with the capabilit
 
 **Smart PropertyGrid** trial version is available on [nuget.org](https://www.nuget.org/packages/VisualHint.SmartPropertyGrid-net6.Trial). For customers, the product is downloadable from a private NuGet feed.
 
+Note that the sample projects reference the Trial package. Change to the Release package if needed.
+
 The [documentation](https://docs.visualhint.com/spg) can be found on the VisualHint web site.
 
 ## Quickstart
