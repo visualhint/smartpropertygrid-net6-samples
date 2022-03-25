@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyGridShowRoom", "Pro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStart", "QuickStart\QuickStart.csproj", "{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesStates", "PropertiesStates\PropertiesStates.csproj", "{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
