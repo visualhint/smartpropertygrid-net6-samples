@@ -14,3 +14,10 @@ PropertyGridShowRoom/PropertyGridShowRoom_*.csproj
 PropertyGridShowRoom/PropertyGridShowRoom_*.sln
 QuickStart/QuickStart_*.csproj
 QuickStart/QuickStart_*.sln
+PropertiesStates/PropertiesStates*.csproj
+PropertiesStates/PropertiesStates*.sln
+PropertyGridShowRoom-FluentSelectedObject/PropertyGridShowRoom_*.csproj
+PropertyGridShowRoom-FluentSelectedObject/PropertyGridShowRoom_*.sln
+
+#License files in case I forgot to remove them
+*.vhlicense

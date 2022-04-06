@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>PropertyGridShowRoom</AssemblyName>
+    <RootNamespace>PropertyGridShowRoom</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

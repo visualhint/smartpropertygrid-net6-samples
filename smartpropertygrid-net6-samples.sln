@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.1.32104.313
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyGridShowRoom", "PropertyGridShowRoom\PropertyGridShowRoom.csproj", "{AE09BF80-C42F-493C-8490-922AD5AC43DA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickStart", "QuickStart\QuickStart.csproj", "{AF4C7B94-E4CB-401C-8C54-2DA2E86F42EA}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertiesStates", "PropertiesStates\PropertiesStates.csproj", "{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PropertyGridShowRoom-FluentSelectedObject", "PropertyGridShowRoom-FluentSelectedObject\PropertyGridShowRoom-FluentSelectedObject.csproj", "{CB2ADDC0-91EB-45FF-9B19-2176E26194F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA808489-4E37-4AF6-80BC-FC683EFEDD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB2ADDC0-91EB-45FF-9B19-2176E26194F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB2ADDC0-91EB-45FF-9B19-2176E26194F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB2ADDC0-91EB-45FF-9B19-2176E26194F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB2ADDC0-91EB-45FF-9B19-2176E26194F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
