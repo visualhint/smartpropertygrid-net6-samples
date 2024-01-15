@@ -1,6 +1,6 @@
 # smartpropertygrid-net6-samples
 
-This repository contains 2 sample apps that allow you to play with the capabilities of the [Smart PropertyGrid for .Net 6](https://visualhint.com/propertygrid) library.
+This repository contains 2 sample apps that allow you to play with the capabilities of the [Smart PropertyGrid for .Net 6 and up](https://visualhint.com/propertygrid) library.
 
 **Smart PropertyGrid** trial version is available on [nuget.org](https://www.nuget.org/packages/VisualHint.SmartPropertyGrid-net6.Trial). For customers, the product is downloadable from a private NuGet feed.
 

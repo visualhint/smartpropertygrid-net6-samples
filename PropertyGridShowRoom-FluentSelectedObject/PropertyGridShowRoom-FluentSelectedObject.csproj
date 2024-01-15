@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
+    <TargetFramework>net8.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
@@ -11,11 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="spg.vhlicense" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="VisualHint.SmartPropertyGrid-net6.Trial" Version="4.0.2" />
+    <PackageReference Include="VisualHint.SmartPropertyGrid-net6.Trial" Version="4.2.0" />
   </ItemGroup>
 
   <ItemGroup>
